@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMICalculatorVillardar</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="weight">Enter your weight (kg):</string>
+    <string name="height">Enter your height (m):</string>
+    <string name="weight_hint">weight</string>
+    <string name="height_hint">height</string>
+    <string name="calculate">Calculate my BMI</string>
+    <string name="your_bmi">Your BMI:\u0020</string>
+    <string name="bmi2">bmi</string>
+    <string name="classification">classification</string>
+</resources>
